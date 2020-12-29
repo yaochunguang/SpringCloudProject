@@ -11,6 +11,8 @@
   <modules>
     <module>SpringCloudCommon</module>
     <module>SpringCloudProvider</module>
+    <module>SpringCloudConsumer</module>
+    <module>SpringCloudEureka</module>
   </modules>
 
   <name>SpringCloudParent</name>
