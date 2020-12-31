@@ -13,6 +13,7 @@
     <module>SpringCloudProvider</module>
     <module>SpringCloudConsumer</module>
     <module>SpringCloudEureka</module>
+    <module>SpringCloudFeignConsumer1</module>
   </modules>
 
   <name>SpringCloudParent</name>
